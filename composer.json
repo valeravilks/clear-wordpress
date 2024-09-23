@@ -1,0 +1,22 @@
+{
+    "name": "valeravilks/clear-wordpress",
+    "autoload": {
+        "psr-4": {
+            "Valeravilks\\ClearWordpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dreamersvalera",
+            "email": "valera@dreamersofday.co"
+        }
+    ],
+    "require-dev": {
+        "roots/wordpress": "^6.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "roots/wordpress-core-installer": true
+        }
+    }
+}

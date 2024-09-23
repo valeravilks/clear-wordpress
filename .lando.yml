@@ -1,0 +1,4 @@
+name: clear-wordpress
+recipe: wordpress
+config:
+  webroot: .
