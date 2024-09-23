@@ -2,7 +2,7 @@
     "name": "valeravilks/clear-wordpress",
     "autoload": {
         "psr-4": {
-            "Valeravilks\\ClearWordpress\\": "src/"
+            "ValeraVilks\\ClearWordpress\\": "src/"
         }
     },
     "authors": [
