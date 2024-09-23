@@ -10,13 +10,5 @@
             "name": "dreamersvalera",
             "email": "valera@dreamersofday.co"
         }
-    ],
-    "require-dev": {
-        "roots/wordpress": "^6.6"
-    },
-    "config": {
-        "allow-plugins": {
-            "roots/wordpress-core-installer": true
-        }
-    }
+    ]
 }
